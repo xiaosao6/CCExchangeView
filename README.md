@@ -8,6 +8,8 @@ A simple subclass of UIView contains two labels and an UIImageView in horizental
 # CCExchangeView
 -------------
 
+### 效果:
+![image](https://github.com/xiaosao6/CCExchangeView/blob/master/animation.gif)
 
 ### 示例:  
 ```swift
